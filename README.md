@@ -34,6 +34,5 @@ Version control is a system that records changes in a file over time. It enables
 - **Command:**
 
 ```bash
-Copy code
 git cherry-pick <commit-hash>
 ```
